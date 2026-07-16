@@ -1,8 +1,10 @@
 # Hi, I'm Steven 👋
 
-I'm I-Min (Steven) Chen — a data science grad student at Vanderbilt (MSDS '27) who builds iOS apps and AI-powered tools.
+**I-Min (Steven) Chen** — data scientist & AI application developer. Vanderbilt MSDS '27, with 4+ years across data science, AI development, and community health outreach. Currently seeking **capstone project opportunities** applying ML to health equity.
 
-## Projects
+🔗 [LinkedIn](https://www.linkedin.com/in/i-min-chen/) · 📫 i-min.chen@vanderbilt.edu
+
+## 🚀 Projects
 
 ### 📱 iOS Apps
 
@@ -10,17 +12,27 @@ I'm I-Min (Steven) Chen — a data science grad student at Vanderbilt (MSDS '27)
 
 ### 🤖 AI × Data
 
-- 👶 [育兒導航全攻略 LINE Bot](https://github.com/iminstevenchen/LineBot) — AI parenting assistant for new parents in Taiwan: vaccine schedules, subsidies, and health Q&A over LINE. `Flask` `Gemini` `RAG` `Supabase`
+- 👶 [育兒導航全攻略 LINE Bot](https://github.com/iminstevenchen/LineBot) — AI parenting assistant for new parents in Taiwan. Built as **Capstone Project Manager, ITRI AI & Big Data Program**: async webhook architecture, RAG pipeline with LangChain, safety guardrails, Supabase backend. `Flask` `Gemini` `RAG` `Supabase`
+- 🩺 **Nurse Resiliency** (Vanderbilt) — Burnout prediction for 6,000+ medical providers using sentence-transformers, clustering, and XGBoost.
 
 ### 🌐 Web
 
 - 📮 [Post Fare Calculation](https://github.com/iminstevenchen/Post-Fare-Calculation) — Postal fare calculator with a postcard-style UI. `JavaScript` `GitHub Pages`
 
-## 🎓 Background
+## 💼 Experience
 
-- M.S. in Data Science, Vanderbilt University (Class of 2027)
-- 🇹🇼 From Taiwan
+- **Wealth By Health Foundation** — Project Manager / Outreach Coordinator (2022–2025): automated SQL/Python data pipelines for 100+ clinic events serving 2,000+ underserved patients annually; forecasting models raised patient throughput 25%
+- **Fubon Financial Holding** — Summer Data Analyst: quantitative modeling (regression, time series, Optuna tuning) for automated trading
+- **Western Michigan University** — Finance Research Assistant: bank evaluation with R and time-series forecasting
+- Also: TA for Stanford's *Code in Space* course · Representative, UN ECOSOC Global Partnership Forum
 
-## 📫 Reach me
+## 🛠 Skills
 
-- Email: chenimin1006@gmail.com
+- **Languages:** Python · R · SQL · JavaScript
+- **ML / AI:** NLP · transformers · RAG · LLMs · LangChain · XGBoost · scikit-learn · TensorFlow
+- **Data:** Supabase (PostgreSQL) · MySQL · Power BI
+
+## 🎓 Education
+
+- **M.S. Data Science** — Vanderbilt University (2027)
+- **B.B.A. Finance** — Western Michigan University · **B.A. Economics** — National Chung Cheng University (dual degree)
