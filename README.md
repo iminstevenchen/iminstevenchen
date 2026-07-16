@@ -14,6 +14,7 @@
 
 - 👶 [育兒導航全攻略 LINE Bot](https://github.com/iminstevenchen/LineBot) — AI parenting assistant for new parents in Taiwan. Built as **Capstone Project Manager, ITRI AI & Big Data Program**: async webhook architecture, RAG pipeline with LangChain, safety guardrails, Supabase backend. `Flask` `Gemini` `RAG` `Supabase`
 - 🩺 **Nurse Resiliency** (Vanderbilt) — Burnout prediction for 6,000+ medical providers using sentence-transformers, clustering, and XGBoost.
+- 📊 [Probability & Statistical Inference Portfolio](https://github.com/iminstevenchen/probability-and-inference-portfolio-Chen-IMin) — 8 deliverables from Vanderbilt DS 5620: roulette simulation, Monte Carlo error, order statistics, MLE & method of moments. `R` `Statistics`
 
 ### 🌐 Web
 
