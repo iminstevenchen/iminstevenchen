@@ -8,7 +8,7 @@
 
 ### 📱 iOS Apps
 
-- ✈️ **PackSmart** — Know customs risks before you fly, then pack right. SwiftUI iOS app. *(in development)*
+- ✈️ [Packmon](https://github.com/iminstevenchen/packmon) — Your travel packing partner. SwiftUI iOS app that builds personalized packing lists and flags customs/airline-security risks before you fly. Team project (TravelGenius), showcased at Taiwan Student Creator Community. [Live site](https://packmon-travel.chenimin1006.chatgpt.site/) `Swift` `SwiftUI`
 
 ### 🤖 AI × Data
 
@@ -29,7 +29,7 @@
 
 ## 🛠 Skills
 
-- **Languages:** Python · R · SQL · JavaScript
+- **Languages:** Python · R · SQL · JavaScript · Swift
 - **ML / AI:** NLP · transformers · RAG · LLMs · LangChain · XGBoost · scikit-learn · TensorFlow
 - **Data:** Supabase (PostgreSQL) · MySQL · Power BI
 
