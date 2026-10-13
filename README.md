@@ -1,67 +1,41 @@
 # Hi, I'm Steven 👋
 
-**I-Min (Steven) Chen** is a data scientist and AI application developer pursuing an M.S. in Data Science at Vanderbilt University. I build human-centered tools across healthcare, machine learning, and applied research.
+I'm an M.S. Data Science student at Vanderbilt. My projects range from fNIRS research and healthcare analytics to AI applications.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/i-min-chen/) · 📫 [i-min.chen@vanderbilt.edu](mailto:i-min.chen@vanderbilt.edu)
+[LinkedIn](https://www.linkedin.com/in/i-min-chen/) · [Email](mailto:i-min.chen@vanderbilt.edu)
 
-## Featured project
+## Selected projects
 
-### 🩺 [Project CRC-ORACLE 腸命天機](https://github.com/iminstevenchen/crc-oracle)
+### [CRC-ORACLE](https://github.com/iminstevenchen/crc-oracle)
 
-An interactive research prototype for exploring outcomes among historically similar colorectal cancer patients. A clinician can describe a patient in natural language, review 23 structured clinical features, locate the patient in a Factor Analysis of Mixed Data (FAMD) space, and compare the selected cohort using Kaplan–Meier survival curves and postoperative outcomes.
+A research prototype for exploring outcomes among similar colorectal cancer patients. I worked on the interface, natural-language search, model integration, and validation. The demo uses 12,196 synthetic records based on historical patient data. It is for research exploration, not individual medical advice.
 
-- **Data:** 12,196 de-identified synthetic historical patient records
-- **My role:** Front-end development, clinical UX, natural-language parsing, model integration, validation, and deployment
-- **Design focus:** Transparent defaults, traceable variable mapping, bilingual UI, and clear clinical-use limitations
-- **Team:** StanCode SC201 final project with colorectal surgery and data science collaborators
+[Live demo](https://crc-oracle.vercel.app)
 
-[Open the live demo](https://crc-oracle.vercel.app) · `JavaScript` `FAMD` `Survival Analysis` `Clinical UX`
+### [Cz landmark estimation for fNIRS](https://github.com/hpphearscode/fNIRS-emotion-VandyBH26/pull/14)
 
-> This prototype presents historical cohort statistics for research demonstration. It is not an individualized diagnosis, prognosis, or treatment recommendation.
+At Vanderbilt BrainHack 2026, I worked on two ways to estimate the Cz landmark when an fNIRS cap covers the inion: a C7-referenced protocol for new participants and a residual correction for existing data. The current analysis has four participants, so we kept the results descriptive.
 
-## Other projects
+### Parent Navigator
 
-### 📱 iOS apps
+I served as project manager for an AI parenting assistant for families in Taiwan. The project uses Flask, Gemini, a LangChain retrieval pipeline, safety checks, and Supabase. [Code](https://github.com/iminstevenchen/LineBot) · [Project repository](https://github.com/iminstevenchen/Parent-Navigator) · [Demo](https://parent-navigator.vercel.app/)
 
+### [Nurse Resiliency](https://github.com/iminstevenchen/nurse-resiliency)
 
-- ✈️ [Packmon](https://github.com/iminstevenchen/packmon) — Your travel packing partner. SwiftUI iOS app that builds personalized packing lists and flags customs/airline-security risks before you fly. Team project (TravelGenius), showcased at Taiwan Student Creator Community. [Live site](https://packmon-travel.chenimin1006.chatgpt.site/) `Swift` `SwiftUI`
+A methods project on burnout-risk modeling across 6,000+ medical providers, using sentence-transformers, clustering, and XGBoost. The data can't be shared, so the repository contains methods and no participant records.
 
+## More work
 
-### 🤖 AI × data
+[Packmon](https://github.com/iminstevenchen/packmon), a SwiftUI travel app · [Probability and Statistical Inference](https://github.com/iminstevenchen/probability-and-inference-portfolio-Chen-IMin), coursework in R · [Post Fare Calculation](https://github.com/iminstevenchen/Post-Fare-Calculation), a JavaScript web app
 
+## Experience
 
-- 🧠 [Cz Landmark Estimation for fNIRS Co-registration](https://github.com/hpphearscode/fNIRS-emotion-VandyBH26/pull/14) (Vanderbilt BrainHack 2026) — Developed two complementary methods for recovering the Cz scalp landmark when an fNIRS cap obscures the inion: a C7-referenced physical protocol for new participants and a residual-correction framework for historical data. Kept the current `n = 4` analysis descriptive and outlined a path toward PCA, clustering, random effects, and mesh-based shape modeling. `fNIRS` `Neuroimaging` `Statistical Modeling` `Experimental Design`
-- 👶 [Parent Navigator 育兒導航全攻略](https://github.com/iminstevenchen/LineBot) — AI parenting assistant for new parents in Taiwan. Built as **Capstone Project Manager, ITRI AI & Big Data Program**: async webhook architecture, RAG pipeline with LangChain, safety guardrails, Supabase backend. [Full project](https://github.com/iminstevenchen/Parent-Navigator) · [Live demo](https://parent-navigator.vercel.app/) `Flask` `Gemini` `RAG` `Supabase`
-- 🩺 [Nurse Resiliency](https://github.com/iminstevenchen/nurse-resiliency) (Vanderbilt) — Burnout-risk modeling for 6,000+ medical providers using sentence-transformers, clustering, and XGBoost. *(methods showcase — data not shareable)*
-- 📊 [Probability & Statistical Inference Portfolio](https://github.com/iminstevenchen/probability-and-inference-portfolio-Chen-IMin) — 8 deliverables from Vanderbilt DS 5620: roulette simulation, Monte Carlo error, order statistics, MLE & method of moments. `R` `Statistics`
+- **Wealth By Health Foundation:** Built SQL and Python pipelines for 100+ clinic events a year. Forecasting work helped increase patient throughput by 25%.
+- **Fubon Financial Holding:** Analyzed trading strategies with regression, time-series models, and Optuna.
+- **Western Michigan University:** Supported bank evaluation and time-series forecasting as a research assistant.
 
+## Education and tools
 
-### 🌐 Web
+M.S. Data Science, Vanderbilt University (2027) · B.B.A. Finance, Western Michigan University · B.A. Economics, National Chung Cheng University
 
-
-- 📮 [Post Fare Calculation](https://github.com/iminstevenchen/Post-Fare-Calculation) — Postal fare calculator with a postcard-style UI. `JavaScript` `GitHub Pages`
-
-
-## 💼 Experience
-
-
-- **Wealth By Health Foundation** — Project Manager / Outreach Coordinator (2022–2025): automated SQL/Python data pipelines for 100+ clinic events serving 2,000+ underserved patients annually; forecasting models raised patient throughput 25%
-- **Fubon Financial Holding** — Summer Data Analyst: quantitative modeling (regression, time series, Optuna tuning) for automated trading
-- **Western Michigan University** — Finance Research Assistant: bank evaluation with R and time-series forecasting
-- Also: TA for Stanford's *Code in Place* course · Representative, UN ECOSOC Global Partnership Forum
-
-
-## 🛠 Skills
-
-
-- **Languages:** Python · R · SQL · JavaScript · Swift
-- **ML / AI:** NLP · transformers · RAG · LLMs · LangChain · XGBoost · scikit-learn · TensorFlow
-- **Data:** Supabase (PostgreSQL) · MySQL · Power BI
-- **Research:** fNIRS · Neuroimaging · Experimental Design · Scientific Writing · Git
-
-
-## 🎓 Education
-
-
-- **M.S. Data Science** — Vanderbilt University (2027)
-- **B.B.A. Finance** — Western Michigan University · **B.A. Economics** — National Chung Cheng University (dual degree)
+Python · R · SQL · JavaScript · Swift · scikit-learn · XGBoost · LangChain · Supabase · Neuroimaging
