@@ -1,6 +1,6 @@
 # Hi, I'm Steven 👋
 
-I'm an M.S. Data Science student at Vanderbilt. My projects range from fNIRS research and healthcare analytics to AI applications.
+I'm studying data science at Vanderbilt. My work includes fNIRS research, healthcare analytics, and applied AI.
 
 [LinkedIn](https://www.linkedin.com/in/i-min-chen/) · [Email](mailto:i-min.chen@vanderbilt.edu)
 
@@ -8,7 +8,7 @@ I'm an M.S. Data Science student at Vanderbilt. My projects range from fNIRS res
 
 ### [CRC-ORACLE](https://github.com/iminstevenchen/crc-oracle)
 
-A research prototype for exploring outcomes among similar colorectal cancer patients. I worked on the interface, natural-language search, model integration, and validation. The demo uses 12,196 synthetic records based on historical patient data. It is for research exploration, not individual medical advice.
+A research prototype for exploring outcomes among similar colorectal cancer patients. I worked on the interface, natural-language search, model integration, and validation. The demo uses 12,196 synthetic records modeled on historical data. It supports research exploration and isn't intended for individual diagnosis or treatment decisions.
 
 [Live demo](https://crc-oracle.vercel.app)
 
